@@ -1,0 +1,10 @@
+__pycache__
+/logs/*.log
+*.py[cod]
+.vscode/*
+.ipython_checkpoints
+*.ipynb
+.vscode
+.python-version
+.idea
+script/capt/
